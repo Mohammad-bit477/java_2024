@@ -1,0 +1,6 @@
+emp.id = 10001
+emp.name = amit kumar
+emp.salary = 20000
+spring.application.name=emp
+spring.cloud.config.server.git.uri=file:///c:/welcome/
+spring.cloud.config.server.git.uri=https://github.com/Mohammad-bit477/java_2024
